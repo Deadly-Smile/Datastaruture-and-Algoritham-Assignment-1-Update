@@ -1,2 +1,3 @@
-# Datastaruture and Algoritham Assignment 1 Update
- 
+# Anik Saha
+## ID: 190115
+## Assignment - 1 (Calculate CGPA and marit list)
