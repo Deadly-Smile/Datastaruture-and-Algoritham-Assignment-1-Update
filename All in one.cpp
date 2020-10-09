@@ -111,7 +111,7 @@ public:
     }
 
     void setStudentId(int studentId) {
-        studentID = studentId;
+        this->studentID = studentId;
     }
 };
 
